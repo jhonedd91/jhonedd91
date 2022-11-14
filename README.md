@@ -1,8 +1,3 @@
-
-<!---
-jhonedd91/jhonedd91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hola 👋, soy jhon edward vique rodriguez</h1>
 <h3 align="center">Un desarrollador backend apasionado de Colombia</h3>
 
