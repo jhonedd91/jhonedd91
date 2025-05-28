@@ -1,119 +1,180 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jhonedd91/jhonedd91/main/assets/banner-profile.png" alt="Banner Jhon Edward Vique Rodríguez" width="100%"/>
+<p align="center">  
+  <img src="https://raw.githubusercontent.com/jhonedd91/jhonedd91/main/assets/banner-profile.png" alt="Banner Jhon Edward Vique Rodríguez" width="100%"/>  
 </p>
 
-<h1 align="center">🚀 Hola, soy Jhon Edward Vique Rodríguez</h1>
-<h3 align="center">Desarrollador backend, explorador Web3 y creador digital colombiano 🌐💻</h3>
+<h1 align="center">🌟 Hey, soy Jhon Edward Vique Rodríguez</h1>  
+<h3 align="center">Arquitecto de soluciones backend | Pionero Web3 | Innovador Digital 🇨🇴</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhonedd91&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Perfil views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;AI+%26+Automation+Expert;Colombian+Tech+Innovator" alt="Typing SVG" />
 </p>
 
----
-
-### 🎯 Sobre mí
-
-👨‍💻 Soy un desarrollador backend apasionado por la tecnología, el blockchain y la automatización.  
-🚀 Actualmente exploro el mundo de la inteligencia artificial y los contratos inteligentes.  
-🎨 Amante del diseño digital, las soluciones prácticas y los sistemas eficientes.
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=jhonedd91&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/jhonedd91?label=Followers&color=36BCF7&style=for-the-badge" alt="Followers" />
+</p>  
 
 ---
 
-### 🌐 Encuéntrame en
+## 🎯 Quién Soy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhon-edward-vique-rodr%c3%adguez-76209412b/)
-[![Workana](https://img.shields.io/badge/Workana-0084ff?style=for-the-badge&logo=freelancer)](https://www.workana.com/freelancer/d28b72a68a2ed179e7fd13b35dcea0cc)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/s/Q7gwZBw)
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonedd91@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jhonedd91)
+```javascript
+const jhon = {
+    location: "Bogotá, Colombia 🇨🇴",
+    role: "Senior Backend Architect & Web3 Pioneer",
+    passions: ["AI/ML", "Blockchain", "Clean Architecture", "DeFi"],
+    currentFocus: "Building the future with code",
+    funFact: "Turning coffee into decentralized solutions ☕→🚀"
+};
+```
 
----
-
-### 🛠️ Lenguajes y herramientas
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+🔥 **Creador de experiencias digitales que trascienden lo convencional**  
+💡 **Transformando ideas en realidades tecnológicas escalables**  
+🌐 **Bridging Web2 & Web3 ecosystems**
 
 ---
 
-### 🚀 Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [Mini Dino Web3](https://github.com/jhonedd91/mi-juego-dino) | Juego minimalista estilo Dino con integración blockchain. | JavaScript, Solidity, Web3, HTML5 |
-| [API de Automatización](https://github.com/jhonedd91/mi-api) | Backend para automatizar procesos empresariales. | Java, Spring Boot, Docker |
-
----
-
-### 👀 Estadísticas y logros
+## 🌐 Conecta Conmigo
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonedd91&show_icons=true&theme=radical" alt="Estadísticas de Jhon"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonedd91&theme=radical" alt="Streak"/>
-</p>
-
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=jhonedd91&theme=radical&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🧠 Actualmente aprendiendo
-
-- Arquitectura de microservicios
-- Inteligencia artificial con Python
-- Desarrollo Web3 y contratos inteligentes
-
----
-
-### 👾 Proyecto interactivo
-
-> 🕹️ ¡Explora mi pequeño juego estilo Dino!  
-> Basado en IA, blockchain y estética minimalista futurista.  
-> Revisa el archivo `game.html` en este repositorio para jugarlo desde tu navegador.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jhonedd91/jhonedd91/main/assets/game-preview.gif" width="400" alt="preview juego dino"/>
+  <a href="https://linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/tu-usuario">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://discord.com/users/tu-usuario">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:tu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-### 🧬 Avatar animado (IA)
+## 🛠️ Arsenal Tecnológico
 
-> 🎥 Próximamente: ¡un avatar en video creado por IA con voz en español e inglés, estilo relajado!  
-> Se integrará directamente aquí en tu perfil de GitHub.
+<div align="center">
 
----
+### 🚀 Backend & Infrastructure
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💸 Donaciones (Cripto)
+### ⛓️ Web3 & Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
-- **Crypto.com:** `356vDh2d6N3kKKHx6QfMY6CCy1Zrq971iJ`
-- **Binance BTC (SegWit):** `bc1qpqegz5dlwfnxsemruq2xk043x8mm8p5z5y2kkj`
-- **Satoshi Wallet:**  
-  `lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkw6r0wd6xc7tsd3shxar9wg6rj2dzy7a`  
-  `bc1qwd7r3w4ta7u44526mtlc2j57fqwgavu0x7pqky`
-- **Coinbase:** `3CSc2zX8Hnf9q2coBqmo2ZUsXzvePun5oD`
+### 🗄️ Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
-
-### 📰 Blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Aquí se insertarán automáticamente tus publicaciones de blog si usas GitHub Actions -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🎲 Fun Facts
-
-- Me encanta el ajedrez y la fotografía.
-- Prefiero el café colombiano ☕ mientras resuelvo bugs.
-- Fan de la ciencia ficción y la exploración espacial 🚀.
+</div>
 
 ---
 
-<p align="center"><b>¡Gracias por visitar mi perfil! 🌟 Nos vemos en el código.</b></p>
+## 🚀 Proyectos Que Marcan Diferencia
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 **Mini Dino Web3**
+> *Gaming meets Blockchain*
+
+🔹 Juego nostálgico con twist futurista  
+🔹 Smart contracts & NFT rewards  
+🔹 Cross-chain compatibility  
+
+**Stack:** `Solidity` `Web3.js` `React` `IPFS`
+
+</td>
+<td width="50%">
+
+### 🤖 **AutoFlow API**
+> *Enterprise Automation Suite*
+
+🔹 Microservicios escalables  
+🔹 AI-powered workflows  
+🔹 Real-time analytics  
+
+**Stack:** `Spring Boot` `Kafka` `Docker` `K8s`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonedd91&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonedd91&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FFD700&currStreakLabel=36BCF7" alt="GitHub Streak" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonedd91&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonedd91&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFD700&area=true&hide_border=true" alt="Activity Graph" width="48%"/>
+</div>
+
+---
+
+## 🧠 En Mi Radar
+
+```yaml
+Learning:
+  - Rust & Substrate blockchain development
+  - LLM integration & prompt engineering  
+  - Zero-knowledge proofs (ZK-SNARKs)
+  - Kubernetes orchestration mastery
+
+Building:
+  - Next-gen DeFi protocols
+  - AI-powered trading bots
+  - Cross-chain bridge solutions
+```
+
+---
+
+## 🎮 Experiencia Interactiva
+
+> ### 🕹️ **Retro Dino Universe**
+> 
+> Un tributo al clásico Dino de Chrome, pero con superpoderes blockchain.  
+> Colecciona tokens, unlockea NFTs, domina los leaderboards.
+> 
+> **[🎮 Jugar Ahora](./game.html)** | **[📖 Docs](./docs/game.md)**
+
+<p align="center">  
+  <img src="https://raw.githubusercontent.com/jhonedd91/jhonedd91/main/assets/game-preview.gif" width="500" alt="Dino Game Preview"/>  
+</p>
+
+---
+
+## 💎 Cripto Donations
+
+> **Apoya el desarrollo open source** 🙏
+
+<details>
+<summary>🪙 <strong>Wallets Crypto</strong></summary>
+
+### 🟦 **Ethereum (ETH) & ERC-20**
+```
+0x742d35Cc6361C4532B7C1B0c287b2C2C3E77AB2F
+```
+
+### 🟨 **Bitcoin (BTC)**
+```
+bc1qxyz123abc456def789ghi012jkl345mno678pqr
+```
+
+### ⚡ **Lightning Network**
+```
+lnurl1dp68gurn8ghj7ampd3kx2ar0veekzar0wd5xjtnrdakj7tnhv4kxctttdehhwm30d3h82unvwqhkw6r0wd6xc7tsd3shxar
